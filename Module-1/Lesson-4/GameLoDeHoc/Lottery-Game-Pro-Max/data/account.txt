@@ -1,0 +1,6 @@
+admin,admin, 1000000
+nam,nam, 120000
+cuccutthui,ancuchong, 1
+lathienkim,lathienkim,1000000
+lathiennam,lathiennam,1604000
+

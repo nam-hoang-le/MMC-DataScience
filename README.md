@@ -19,4 +19,4 @@ In this repository, I will push coding contents related to projects, including l
 1. Learn how to use Git, Github, Anaconda, Jupyter Notebook, Data Science Process, Overview about Data Science. (Done)
 2. Python: String, Loop, Function, Lottery Game Version 1. (Done)
 3. Python: List, Set, Dictionary, Tuple, Lottery Game Version 2. (Done)
-4. Python: Handle Files, Mistakes, Regex, Python modules
+4. Python: Handle Files, Mistakes, Regex, Python modules. (Done)

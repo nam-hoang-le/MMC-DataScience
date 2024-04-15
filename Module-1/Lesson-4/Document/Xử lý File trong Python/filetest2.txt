@@ -1,0 +1,2 @@
+Xin chào !!
+Chế độ 'a' sẽ thêm nội dung này mà không làm mất dữ liệu ban đầu

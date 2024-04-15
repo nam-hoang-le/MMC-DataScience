@@ -1,0 +1,7 @@
+Hi everyone,
+
+Welcome to MetaMind team!
+
+This document is about how to handle your files in Python.
+
+Glad to see you all!

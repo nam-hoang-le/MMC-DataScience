@@ -1,0 +1,3 @@
+-- Active: 1714793884232@@127.0.0.1@3306
+CREATE DATABASE Module2_Lab_bai_tap;
+
